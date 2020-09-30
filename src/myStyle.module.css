@@ -18,3 +18,30 @@ width:1000px
     text-align: left;
 }
 
+.numberalignment{
+    width:45px;
+    height:45px;
+    border-color: brown;
+    border: solid 1px brown;
+    background-color: white;
+    font-size:20px;
+}
+
+.clearbtnalignment{
+    height: 45px;
+    width: 90px;
+    border-color: brown;
+    border: solid 1px brown;
+    background-color: white;
+    font-size:20px;
+}
+
+.resultbtnalignment{
+    width: 180px;
+    height: 80px;
+    border-color: brown;
+    border: solid 1px brown;
+    background-color: brown;
+    font-size:30px;
+    color: whitesmoke;
+}
